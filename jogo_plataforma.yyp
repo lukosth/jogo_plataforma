@@ -54,7 +54,6 @@
     {"id":{"name":"spr_wall_sloop_l","path":"sprites/spr_wall_sloop_l/spr_wall_sloop_l.yy",},},
     {"id":{"name":"spr_wall_sloop_r","path":"sprites/spr_wall_sloop_r/spr_wall_sloop_r.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
-    {"id":{"name":"teste_git","path":"sprites/teste_git/teste_git.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
